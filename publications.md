@@ -10,7 +10,7 @@ Lastest Update: 9th May 2023&nbsp;  [中文版本 (Chinese Version)](https://cai
 
 ## Conference Paper
 
-(1)Dong, G P, Ma J, Chen M X, Lee D, Pryce G & Chen Y. (2019). Developing a Locally Adaptive Spatial Multilevel Logistic Model to Analyze Ecological Effects on Health Using Individual Census Records.Annals of the American Association of Geographers(https://doi.org/10.1080/24694452.2019.1644990) [SSCI／一区]
+(1)Dong, G P, Ma J, Chen M X, Lee D, Pryce G & Chen Y. (2019). Developing a Locally Adaptive Spatial Multilevel Logistic Model to Analyze Ecological Effects on Health Using Individual Census Records.Annals of the American Association of Geographers[(https://doi.org/10.1080/24694452.2019.1644990)](https://doi.org/10.1080/24694452.2019.1644990) [SSCI／一区]
 
 (2)Dong, G P**, Wolf L, Alexiou A & Arribas-Bel D. (2019). Inferring neighbourhood quality with property transaction records by using a locally adaptive spatial multi-level model.Computers, Environment and Urban Systems, 79: 118-125 [SSCI／一区]
 
@@ -34,11 +34,11 @@ Lastest Update: 9th May 2023&nbsp;  [中文版本 (Chinese Version)](https://cai
 
 (12)Ma, J, Chen, Y andDong, G P**(2018). Flexible Spatial Multilevel Modelling of Neighbourhood Satisfaction in Beijing.Professional Geographer. 70(1): 11-21. [SSCI]
 
-(13)Baily N,Dong, G P**, Minton, J and Pryce, G (2018). Reconsidering the relationship between air pollution and deprivation.International Journal of Environmental Research and Public Health, 15 (4). https://doi.org/10.3390/ijerph15040629 [SSCI／二区]
+(13)Baily N,Dong, G P**, Minton, J and Pryce, G (2018). Reconsidering the relationship between air pollution and deprivation.International Journal of Environmental Research and Public Health, 15 (4).[(https://doi.org/10.3390/ijerph15040629)](https://doi.org/10.3390/ijerph15040629) [SSCI／二区]
 
-(14)Dang, Y, ChenY &Dong, G P**. (2019). Settlement intention of migrants in the Yangtze River Delta, China: The importance of city-scale contextual effects.Population, Space and Place.https://doi.org/10.1002/psp.2270[SSCI／一区]
+(14)Dang, Y, ChenY &Dong, G P**. (2019). Settlement intention of migrants in the Yangtze River Delta, China: The importance of city-scale contextual effects.Population, Space and Place.[(https://doi.org/10.1002/psp.2270)](https://doi.org/10.1002/psp.2270)[SSCI／一区]
 
-(15)Ma J, Mitchell G, Liu B &Dong, G P**. (2018). A spatial analysis of air pollution and environmental inequality in Beijing, 2000-2010. Journal of Environmental Planning and Management(https://doi.org/10.1080/09640568.2018.1560003). [SSCI／二区]
+(15)Ma J, Mitchell G, Liu B &Dong, G P**. (2018). A spatial analysis of air pollution and environmental inequality in Beijing, 2000-2010. Journal of Environmental Planning and Management[(https://doi.org/10.1080/09640568.2018.1560003)](https://doi.org/10.1080/09640568.2018.1560003). [SSCI／二区]
 
 (16)Dean, N,Dong, G P**, Piekut, A and Pryce, G (2019). Frontiers in residential segregation: Understanding neighbourhood boundaries and their impacts.Tijdschrift voor Economische en Sociale Geografie110: 271-288. [SSCI]
 
