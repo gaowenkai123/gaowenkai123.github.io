@@ -6,20 +6,13 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+我是董冠鹏教授，现任河南大学的教授，也是这所学府的一员，感到十分荣幸能够在此与您们交流。作为一名教育工作者和学术研究者，我的主要研究领域是时空间统计模型模型开发。多年来，我一直致力于深入研究和探索这一领域的核心问题，并努力推动相关领域的学术进展和创新。我坚信知识的力量，相信通过不断的学习和探索，我们可以为社会的发展做出重要的贡献。作为一名教师，我将教育视为一项神圣的使命。我致力于激发学生的学习兴趣和潜力，引导他们掌握专业知识和技能，培养他们的创新思维和批判性思维能力。我鼓励学生积极参与讨论和实践，在实际问题中应用所学知识，培养他们的实践能力和解决问题的能力。除了教学和研究工作，我也积极参与学术交流和合作。我经常参加国内外学术会议和研讨会，与同行学者交流学术思想和研究成果。我还与国内外的研究团队合作，共同开展科研项目，致力于推动学科的前沿发展和跨学科研究。在未来的日子里，我将继续以饱满的热情和扎实的工作，致力于教育事业和学术研究。我将继续努力提升自己的专业水平，为学生们提供更好的教学体验和指导，为学术界贡献更多的智慧和力量。
+感谢大家的关注和支持！我期待与您们共同探索学术的奥秘，为共同的目标努力奋斗！
 
 ## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+我的研究兴趣涵盖时空间统计模型开发、地理计算、居民福祉与环境健康，以及城市与区域可持续发展。我致力于推动学术领域的进步和创新，通过开发先进的统计模型和地理计算方法，深入研究时空数据的内在模式和人与环境的关系。我关注社会的可持续发展，努力为决策者和政策制定者提供科学的建议和战略，以促进经济繁荣、社会公平和环境保护的协调发展。我的目标是为实现城市与区域的可持续发展贡献智慧与力量。谢谢大家的支持！
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am looking for a Summer Research Intern Position (from June to Sep)!**
-- **May 2023：**Congratulations! We have won the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published! Welcome to contribute.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!,123
-- **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the 2022 China National Scholarship.
-- **Jun 2022：**Online Research Intern at Cambridge Centre for the Integration of Science, Technology and Culture, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+
