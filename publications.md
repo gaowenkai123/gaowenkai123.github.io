@@ -4,10 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
-
-Lastest Update: 9th May 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/publications-zh/)
-
 ## Conference Paper
 
 (1)Dong, G P, Ma J, Chen M X, Lee D, Pryce G & Chen Y. (2019). Developing a Locally Adaptive Spatial Multilevel Logistic Model to Analyze Ecological Effects on Health Using Individual Census Records.Annals of the American Association of Geographers[(https://doi.org/10.1080/24694452.2019.1644990)](https://doi.org/10.1080/24694452.2019.1644990) [SSCI／一区]
