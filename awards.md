@@ -6,7 +6,7 @@ title: Awards
 
 ## 代表性奖励或荣誉称号
 
-(1)荣获2016年The Jon Rasbash Prize for Quantitative Social Science.英国经济社会科学基金会国家定量方法研究中心颁发,每两年授予一位对定量和计算社会科学做出突出创新性贡献的青年学者.
+ (1)荣获2016年The Jon Rasbash Prize for Quantitative Social Science.英国经济社会科学基金会国家定量方法研究中心颁发,每两年授予一位对定量和计算社会科学做出突出创新性贡献的青年学者.
 
 (2)国际知名SSCI期刊Environment and Planning B编委
 
