@@ -15,7 +15,7 @@ layout: page
 
 ## 教育背景
 
-2011/09 - 2014/09，英国布里斯托尔大学(University of Bristol)，地理科学学院，人文地理学，博士
+ 2011/09 - 2014/09，英国布里斯托尔大学(University of Bristol)，地理科学学院，人文地理学，博士
 
 2008/09 - 2011/06，中国科学院地理科学与资源研究所，人文地理学，硕士
 
@@ -23,7 +23,7 @@ layout: page
 
 ## 工作经历
 
-2014 - 2016,英国谢菲尔德大学(University of Sheffield)定量方法研究中心,博士后
+ 2014 - 2016,英国谢菲尔德大学(University of Sheffield)定量方法研究中心,博士后
 
 2016 - 2019,英国利物浦大学(University of Liverpool),地理与规划学院,讲师(终身教职)
 
